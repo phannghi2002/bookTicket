@@ -1,18 +1,6 @@
 export const fakeApi = [
     {
         issuer: 'VISA',
-        cardNumber: '4716790778690902',
-        expiryMonth: '08',
-        expiryYear: '2024',
-        exp: '08/2024',
-        cvv: 115,
-        name: 'Cruz Parisian',
-        address: '0431 Jarvis Extension',
-        country: 'Somalia',
-        zipcode: '64900-4065',
-    },
-    {
-        issuer: 'VISA',
         cardNumber: '4290988853390794',
         expiryMonth: '11',
         expiryYear: '2023',
