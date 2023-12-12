@@ -338,11 +338,7 @@ function Paying() {
                 <div className={cx('wrapper')}>
                     <div className={cx('container')}>
                         <div className={cx('header')}>
-                            <img
-                                className={cx('Header_logo-img__tUcP2')}
-                                alt="logo"
-                                src="https://res.flynow.vn/logoflynow.png"
-                            />
+                            <img className={cx('logo-img')} alt="logo" src="https://res.flynow.vn/logoflynow.png" />
                         </div>
                         <div className={cx('content')}>
                             <div className={cx('information')}>
